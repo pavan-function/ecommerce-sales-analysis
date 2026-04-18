@@ -1,0 +1,201 @@
+return_id,order_id,return_reason
+5001,1460,Wrong Size
+5002,1043,Defective
+5003,2942,Wrong Size
+5004,1048,Wrong Size
+5005,2891,Changed Mind
+5006,2144,Changed Mind
+5007,2326,Wrong Size
+5008,2254,Wrong Size
+5009,2284,Wrong Size
+5010,1469,Defective
+5011,2858,Changed Mind
+5012,1183,Defective
+5013,2996,Defective
+5014,1948,Wrong Size
+5015,1407,Defective
+5016,1537,Defective
+5017,2437,Wrong Size
+5018,2745,Defective
+5019,1346,Defective
+5020,1102,Changed Mind
+5021,1822,Changed Mind
+5022,2266,Wrong Size
+5023,1879,Changed Mind
+5024,2230,Changed Mind
+5025,1533,Changed Mind
+5026,1306,Defective
+5027,2963,Changed Mind
+5028,1754,Defective
+5029,1349,Changed Mind
+5030,2940,Changed Mind
+5031,2162,Defective
+5032,1241,Wrong Size
+5033,1029,Defective
+5034,2472,Defective
+5035,2077,Wrong Size
+5036,1892,Changed Mind
+5037,2584,Defective
+5038,2885,Wrong Size
+5039,2902,Defective
+5040,1930,Wrong Size
+5041,2695,Changed Mind
+5042,2380,Changed Mind
+5043,2013,Defective
+5044,1243,Wrong Size
+5045,2462,Wrong Size
+5046,1417,Changed Mind
+5047,1391,Defective
+5048,2938,Wrong Size
+5049,2766,Defective
+5050,2666,Defective
+5051,2602,Defective
+5052,1546,Wrong Size
+5053,1590,Changed Mind
+5054,2529,Changed Mind
+5055,1783,Wrong Size
+5056,1267,Wrong Size
+5057,1884,Changed Mind
+5058,2754,Wrong Size
+5059,1424,Changed Mind
+5060,2229,Changed Mind
+5061,1442,Defective
+5062,2688,Wrong Size
+5063,1580,Defective
+5064,2489,Changed Mind
+5065,2387,Changed Mind
+5066,1388,Wrong Size
+5067,1857,Wrong Size
+5068,1370,Changed Mind
+5069,1837,Changed Mind
+5070,2623,Changed Mind
+5071,1299,Defective
+5072,1059,Defective
+5073,1595,Defective
+5074,3000,Changed Mind
+5075,1483,Wrong Size
+5076,1924,Wrong Size
+5077,2859,Defective
+5078,1509,Changed Mind
+5079,1758,Defective
+5080,2194,Changed Mind
+5081,2402,Changed Mind
+5082,1939,Wrong Size
+5083,1176,Defective
+5084,1022,Wrong Size
+5085,1961,Wrong Size
+5086,1273,Defective
+5087,2785,Defective
+5088,1663,Wrong Size
+5089,2420,Defective
+5090,1815,Defective
+5091,2407,Defective
+5092,1435,Defective
+5093,2461,Wrong Size
+5094,1786,Wrong Size
+5095,2451,Wrong Size
+5096,1867,Changed Mind
+5097,2508,Changed Mind
+5098,2224,Defective
+5099,1525,Defective
+5100,1150,Wrong Size
+5101,1196,Wrong Size
+5102,2141,Wrong Size
+5103,1121,Changed Mind
+5104,1107,Wrong Size
+5105,1682,Changed Mind
+5106,2907,Changed Mind
+5107,1481,Defective
+5108,1965,Wrong Size
+5109,2861,Changed Mind
+5110,1726,Defective
+5111,2242,Wrong Size
+5112,2924,Changed Mind
+5113,2374,Defective
+5114,2981,Wrong Size
+5115,2644,Wrong Size
+5116,2226,Wrong Size
+5117,2454,Wrong Size
+5118,2533,Wrong Size
+5119,2659,Changed Mind
+5120,1094,Changed Mind
+5121,1011,Wrong Size
+5122,1520,Defective
+5123,2034,Wrong Size
+5124,2270,Wrong Size
+5125,1781,Changed Mind
+5126,1620,Defective
+5127,1809,Wrong Size
+5128,2375,Changed Mind
+5129,1760,Wrong Size
+5130,1271,Defective
+5131,2983,Defective
+5132,2828,Changed Mind
+5133,2146,Wrong Size
+5134,1085,Wrong Size
+5135,2189,Changed Mind
+5136,1368,Defective
+5137,1534,Changed Mind
+5138,1348,Changed Mind
+5139,2032,Changed Mind
+5140,2010,Defective
+5141,2906,Wrong Size
+5142,1695,Changed Mind
+5143,2798,Changed Mind
+5144,1959,Changed Mind
+5145,1184,Changed Mind
+5146,1650,Defective
+5147,2455,Wrong Size
+5148,2087,Wrong Size
+5149,1887,Wrong Size
+5150,1291,Defective
+5151,1240,Wrong Size
+5152,1642,Wrong Size
+5153,1091,Defective
+5154,1262,Defective
+5155,2023,Changed Mind
+5156,2786,Wrong Size
+5157,2994,Defective
+5158,2710,Changed Mind
+5159,1576,Wrong Size
+5160,2532,Wrong Size
+5161,1739,Changed Mind
+5162,2897,Defective
+5163,1881,Changed Mind
+5164,2849,Defective
+5165,2796,Defective
+5166,1540,Changed Mind
+5167,2256,Defective
+5168,2699,Changed Mind
+5169,2560,Wrong Size
+5170,2898,Wrong Size
+5171,1541,Defective
+5172,2059,Wrong Size
+5173,1893,Changed Mind
+5174,2829,Changed Mind
+5175,1338,Changed Mind
+5176,1647,Wrong Size
+5177,2510,Wrong Size
+5178,2007,Wrong Size
+5179,2565,Changed Mind
+5180,2946,Defective
+5181,1310,Changed Mind
+5182,2139,Defective
+5183,2748,Defective
+5184,2347,Changed Mind
+5185,2304,Changed Mind
+5186,2635,Wrong Size
+5187,1902,Defective
+5188,1109,Defective
+5189,1387,Wrong Size
+5190,1305,Defective
+5191,1112,Defective
+5192,1471,Wrong Size
+5193,1376,Changed Mind
+5194,1074,Wrong Size
+5195,1964,Wrong Size
+5196,1335,Changed Mind
+5197,2446,Changed Mind
+5198,1957,Wrong Size
+5199,1894,Changed Mind
+5200,1238,Wrong Size
